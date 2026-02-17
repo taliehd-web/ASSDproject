@@ -1,7 +1,7 @@
 import os
 import time
 
-print("=== ASSD Smoke Detection System Demo ===")
+print("=== ASSD Smoke Detection System Demo (Github Update===")
 print("Running on Raspberry Pi")
 print()
 
